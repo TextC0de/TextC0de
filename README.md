@@ -1,5 +1,5 @@
 ### 👋 Hi, I'm Ignacio Guzmán
-I am a software developer from Argentina 🇦🇷.
+I am a web developer from Argentina 🇦🇷.
 
 I love to learn new things and apply them on the real world.
 The utilities and possibilities offered by technology never cease to amaze me.
