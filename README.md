@@ -1,16 +1,23 @@
-### Hi there 👋
+### 👋 Hi, I'm Ignacio Guzmán
+I am a software developer from Argentina 🇦🇷.
 
-<!--
-**TextC0de/TextC0de** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I love to learn new things and apply them on the real world.
+The utilities and possibilities offered by technology never cease to amaze me.
 
-Here are some ideas to get you started:
+- 🔭 Currently working on **an online game based on the Pasapalabra TV Show**.
+- 🚀 Perfecting myself in **NodeJS, React, Redux**.
+- 🌱 Learning about **Docker**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🧰 A little more about me
+```javascript
+const ignacio = {
+  pronouns: "He" | "Him",
+  languages: ["Javascript", "PHP", "Java", "Kotlin"],
+  databases: ["Mongo", "SQLite", "MySQL"],
+  stylesheets: ["SASS", "Bootstrap", "Styled-Components"],
+  frameworks: ["React"],
+  runtimes: ["Node"],
+  test: ["Jest"],
+  misc: ["Firebase", "Socket.IO"]
+}
+```
