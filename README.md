@@ -8,7 +8,7 @@ The utilities and possibilities offered by technology never cease to amaze me.
 - 🚀 Perfecting myself in **NodeJS, React, Redux**.
 - 🌱 Learning about **Docker**.
 
-🧰 A little more about me
+😎 A little more about me
 ```javascript
 const ignacio = {
   pronouns: "He" | "Him",
