@@ -4,7 +4,7 @@ I am a web developer from Argentina 🇦🇷.
 I love to learn new things and apply them on the real world.
 The utilities and possibilities offered by technology never cease to amaze me.
 
-- 🔭 Currently working on **completing the [2020 front-end developer road map](https://github.com/kamranahmedse/developer-roadmap)**.
+- 🔭 Currently working on **completing the [2020 front-end developer road map](https://roadmap.sh/frontend)**.
 - 🚀 Perfecting myself in **NodeJS, React, Redux**.
 - 🌱 Learning about **NextJS and Gatsby**.
 
